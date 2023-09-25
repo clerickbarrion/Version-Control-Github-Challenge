@@ -1,0 +1,9 @@
+1. The terminal is a program that allows you execute commands on your computer. Some things you can do are add/remove files/directories and version control with Git.
+
+2. The major difference between Git and Github is that Git is run locally and Github is web-based service that has features to manage and host repositories.
+
+3. To fork a Github repository: 
+    1) Find a repository you want to fork 
+    2) Click the button that says "Fork"
+    3) Change the name or description if you want
+    4) Click "Create fork"
